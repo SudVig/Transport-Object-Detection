@@ -18,5 +18,7 @@ This project is a web application developed using React.js for the frontend and 
 
 ## Demo
 
-Uploading Demo.mp4…
+https://github.com/SudVig/Transport-Object-Detection/assets/96943194/d6191fc3-5667-4204-8a40-de3103fe09dd
+
+
 
