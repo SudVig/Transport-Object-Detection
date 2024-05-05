@@ -1,0 +1,13 @@
+.upload{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    height: 90vh;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+}

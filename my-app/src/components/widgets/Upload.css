@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.uploadbox{
+    
+    padding:20px;
+    background:#fff;
+    box-shadow: -3px -3px 7px rgba(94, 104, 121, 0.377),
+                3px 3px 7px rgba(94, 104, 121, 0.377);
+              
+}
+.submit{
+
+    background-color: red;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    text-align: center;
+
+
+}

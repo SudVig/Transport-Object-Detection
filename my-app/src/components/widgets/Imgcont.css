@@ -1,0 +1,51 @@
+.imgwraper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+.imgbox{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+.outerimgbox{
+    padding:20px;
+    background:#fff;
+    box-shadow: -3px -3px 7px rgba(94, 104, 121, 0.377),
+                3px 3px 7px rgba(94, 104, 121, 0.377);
+}
+button{
+    background:none;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    size: 20px;
+}
+.back{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: start;
+
+    font-size: large;
+}
+
+@media screen and (max-width : 780px) {
+
+    .outerimgbox{
+        position: relative;
+        top: 100px;
+        z-index: -1;
+    }
+
+.imgbox{
+    flex-direction: column;
+
+}
+
+}
